@@ -2,6 +2,7 @@
 I'm just gona see around here)
 - 🌱 I’m currently learning php
 - 🔭 I’m currently working on KNF
+- - 🌱 I’m currently learning Java
 <!--
 **AnnaPapalek/AnnaPapalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
